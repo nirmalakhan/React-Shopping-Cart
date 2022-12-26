@@ -1,0 +1,21 @@
+#cartdata {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#cartimg {
+
+    height: 50px;
+    float: left;
+    width: 50px;
+}
+
+#info {
+    text-align: right;
+    border: 1px solid black;
+    margin: 1px;
+    width: fit-content;
+    height: fit-content;
+    padding-inline: 10px;
+}

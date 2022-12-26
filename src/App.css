@@ -1,0 +1,21 @@
+#main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#img {
+  height: 100px;
+  float: left;
+  width: 100px;
+}
+
+#data {
+  text-align: right;
+  border: 1px solid black;
+  margin: 1px;
+  background-color: aqua;
+  width: fit-content;
+  height: fit-content;
+  padding-inline: 10px;
+}
